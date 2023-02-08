@@ -1,5 +1,6 @@
 # angular-movies
 
+
 This is a Movies App built using [Angular](https://angular.io) and [RxAngular](https://github.com/rx-angular/rx-angular).  
 As data source the [The Movie Database (TMDB)](https://www.themoviedb.org/) API is used.  
 
